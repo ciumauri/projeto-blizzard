@@ -1,2 +1,1 @@
-# projeto-gulp
 # projeto-blizzard
